@@ -1,5 +1,5 @@
 # 📊 Customer Churn Prediction using XGBoost
-
+---
 Welcome to the Customer Churn Prediction project!  
 This application predicts whether a customer will leave the bank or not based on key financial and personal features, using a powerful XGBoost machine learning model.
 
