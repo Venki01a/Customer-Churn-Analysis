@@ -1,5 +1,3 @@
----
-
 # 📊 Customer Churn Prediction using XGBoost
 
 Welcome to the Customer Churn Prediction project!  
