@@ -1,17 +1,15 @@
-Of course! Here's a **professional and attractive GitHub project description** you can use for your README:
-
 ---
 
 # 📊 Customer Churn Prediction using XGBoost
 
-Welcome to the **Customer Churn Prediction** project!  
+Welcome to the Customer Churn Prediction project!  
 This application predicts whether a customer will leave the bank or not based on key financial and personal features, using a powerful **XGBoost** machine learning model.
 
-✅ **Key Highlights:**
-- Built using **XGBoost Classifier** for high prediction accuracy.
-- **Streamlit** app for interactive and user-friendly predictions.
-- Integrated **StandardScaler** to maintain consistent feature scaling.
-- **Pickle** files used for efficient model and scaler storage.
+✅ Key Highlights:
+- Built using XGBoost Classifier for high prediction accuracy.
+- Streamlit app for interactive and user-friendly predictions.
+- Integrated StandardScaler to maintain consistent feature scaling.
+- Pickle files used for efficient model and scaler storage.
 - Trained on real-world customer churn dataset (`Churn_Modelling.csv`).
 
 ---
@@ -56,11 +54,6 @@ This application predicts whether a customer will leave the bank or not based on
 
 ---
 
-# 📸 App Preview
-
-*(Add a screenshot of your Streamlit app here!)*
-
----
 
 # 📢 How to Run Locally
 
